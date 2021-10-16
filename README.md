@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @annguyen12300
-- 👀 I’m interested in learning coding...
-- 🌱 I’m currently learning coding...
-- 💞️ I’m looking to collaborate on coding...
+- 👋 Hi, I’m An Nguyen
+- 👀 I’m interested in learning about my self-potential
+- 🌱 I’m currently learning coding from Coding Dojo bootcamp
 - 📫 How to reach me coding ... annguyen31200@gmail.com
 
 <!---
